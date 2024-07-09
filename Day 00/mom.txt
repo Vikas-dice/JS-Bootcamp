@@ -1,0 +1,13 @@
+
+
+Day 00
+
+
+mutable and immutable - 
+array - 
+string?
+obhject
+
+
+
+
