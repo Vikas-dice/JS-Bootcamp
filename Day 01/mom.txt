@@ -1,0 +1,20 @@
+
+Last Class - basics refresher (array object mutablle immutable string funcs class cons )
+
+functions 
+class 
+this 
+inheritance 
+deep copy shallow copy
+
+
+
+es5 and es6
+
+es5 - function statement , function expression , anaonymous funs 
+
+es6 - fat arrow func , fat arrow with single param , fat arrow with multi param, fat arrow with implicit return 
+
+
+
+
