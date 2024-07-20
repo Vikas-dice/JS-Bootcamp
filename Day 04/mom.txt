@@ -1,0 +1,17 @@
+
+Date 10th july , 2024
+
+-Function cons
+-deep copy and shallow copy
+-call
+-apply
+-bind
+-map
+-filter
+-reduce
+-class cons 
+-super cons 
+-oops in js
+
+------------------------------------------------------------
+
